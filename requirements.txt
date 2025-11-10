@@ -4,3 +4,7 @@ scikit-learn
 notebook 
 python-dotenv 
 streamlit 
+streamlit
+pandas
+scikit-learn
+sentence-transformers
