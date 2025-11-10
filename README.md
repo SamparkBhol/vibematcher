@@ -4,7 +4,7 @@ A smart recommendation app that matches products to your vibe, not just your sea
 
 This app is a prototype submission that fulfills all requirements of the "Vibe Matcher" challenge, including a full web app, testing suite, and project reflection.
 
-### [➡️ Click here to see the live demo!]([httpsit-vibematcher-app-py-89x3.streamlit.app](https://vibematcher-nhgicluxvkxgbxulsgdejx.streamlit.app/))
+### [➡️ Click here to see the live demo!](https://vibematcher-nhgicluxvkxgbxulsgdejx.streamlit.app))
 
 ---
 
